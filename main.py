@@ -33,6 +33,7 @@ sns.regplot(
     data=df,
     scatter_kws={'alpha': 0.6},
     line_kws={'color': 'red'}
+)
 
 plt.title('Correlation between Alcohol and Flavanoids')
 plt.xlabel('Alcohol')
