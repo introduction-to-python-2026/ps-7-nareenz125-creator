@@ -1,1 +1,16 @@
+Data Exploration and Correlation Analysis – Wine Dataset
+
+In this analysis, the Wine dataset from sklearn was used. The dataset contains
+chemical properties of different wine samples.
+
+Several features were explored, including alcohol, malic_acid, ash, and flavanoids.
+Histograms showed that alcohol values are relatively normally distributed, while
+some other features are slightly skewed.
+
+A scatter plot and correlation plot were created between alcohol and flavanoids.
+The correlation scatter plot shows a clear positive relationship between these two
+variables. As the alcohol content increases, the flavanoids level also tends to increase.
+
+The regression line confirms a strong positive correlation, indicating that alcohol
+is a good predictor of flavanoids content in this dataset.
 
